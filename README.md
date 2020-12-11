@@ -1,8 +1,8 @@
 # Git
-[![GitHub Release](https://img.shields.io/github/release/zjayers/Git.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/Git.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/Git.svg?style=flat)](https://github.com/zjayers/Git/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/Git.svg?style=flat)](https://github.com/zjayers/Git/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/Git.svg?maxAge=25000)](https://github.com/zjayers/Git/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/Git/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/Git/blob/master/LICENSE)
 
 ## Description
 
